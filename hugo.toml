@@ -1,4 +1,29 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-coder'
+baseURL                = "https://davidliois.com/"
+languageCode           = "en"
+defaultContentLanguage = "en"
+title                  = "David Liois Jayadi"
+theme                  = "hugo-coder"
+enableEmoji            = true
+
+[pagination]
+pagerSize = 6
+
+[services]
+[services.disqus]
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "David Liois Jayadi"
+description = "David Liois Jayadi's personal website"
+keywords = "blog,developer,personal"
+info = [
+    "Software Engineer",
+]
+avatarURL = "images/profile.jpg"
