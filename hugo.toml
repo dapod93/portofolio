@@ -56,18 +56,21 @@ name   = "Github"
 icon   = "fa-brands fa-github fa-2x"
 weight = 1
 url    = "https://github.com/dapod93/"
+target = "_blank"
 
 [[params.social]]
 name   = "LinkedIn"
 icon   = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url    = "https://www.linkedin.com/in/david-liois-jayadi-76735573/"
+target = "_blank"
 
 [[params.social]]
 name   = "Instagram"
 icon   = "fa-brands fa-instagram fa-2x"
 weight = 3
 url    = "https://www.instagram.com/davidliois93/"
+target = "_blank"
 
 [languages.en]
 languageName = ":uk:"
