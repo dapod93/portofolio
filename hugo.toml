@@ -100,28 +100,28 @@ url    = "contact/"
 languageName = ":indonesia:"
 title        = "David Liois Jayadi"
 
-[languages.pt-br.params]
+[languages.id.params]
 author      = "David Liois Jayadi"
 description = "Situs pribadi David Liois Jayadi"
 info        = "Software Engineer"
 keywords    = "blog,developer,personal,pengembang,pribadi"
 
-[[languages.pt-br.menu.main]]
+[[languages.id.menu.main]]
 name   = "Tentang"
 weight = 1
 url    = "about/"
 
-[[languages.pt-br.menu.main]]
+[[languages.id.menu.main]]
 name   = "Blog"
 weight = 2
 url    = "posts/"
 
-[[languages.pt-br.menu.main]]
+[[languages.id.menu.main]]
 name   = "Proyek"
 weight = 3
 url    = "projects/"
 
-[[languages.pt-br.menu.main]]
+[[languages.id.menu.main]]
 name   = "Kontak"
 weight = 4
 url    = "contact/"
