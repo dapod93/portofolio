@@ -30,7 +30,7 @@ info = [
 
 avatarURL             = "images/profile.jpg"
 dateFormat            = "02 January 2006"
-since                 = 2025
+since                 = 2023
 rtl                   = false
 colorScheme           = "auto"
 hideColorSchemeToggle = false
