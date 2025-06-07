@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title                  = "David Liois Jayadi"
 theme                  = "hugo-coder"
 enableEmoji            = true
+enableRobotsTXT        = true
 
 [pagination]
 pagerSize = 6
