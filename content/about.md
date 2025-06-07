@@ -4,3 +4,5 @@ description = "This page is all about me"
 date = "2025-06-07"
 author = "David Liois Jayadi"
 +++
+
+Hello, I'm David Liois Jayadi from Indonesia
